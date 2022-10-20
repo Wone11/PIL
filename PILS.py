@@ -1,6 +1,5 @@
 from turtle import width
 from PIL import Image
-from pyparsing import White
 
 
 '''
