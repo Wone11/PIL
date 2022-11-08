@@ -31,7 +31,6 @@ def Option_One():
         # save new output file:
         new_img.save(new_dir + file, image_format)
         
-        print(new_img)
     
 def Option_Two():
     #define directory here
