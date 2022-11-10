@@ -9,3 +9,5 @@ Python imaging liberary and API training
 -->https://pillow.readthedocs.io/en/stable/
 
 -->https://docs.python.org/3/tutorial/errors.html
+-->https://pillow.readthedocs.io/en/stable/reference/ImageDraw.html
+-->https://docs.python.org/3/tutorial/errors.html#raising-exceptions
