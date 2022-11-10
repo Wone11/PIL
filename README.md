@@ -7,3 +7,5 @@ Python imaging liberary and API training
 -->https://pillow.readthedocs.io/en/stable/handbook/tutorial.html
 -->https://pillow.readthedocs.io/en/stable/handbook/index.html
 -->https://pillow.readthedocs.io/en/stable/
+
+-->https://docs.python.org/3/tutorial/errors.html
